@@ -1,0 +1,30 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #cccccc;
+}
+
+body.dark-mode .news-item {
+    background-color: #252526;
+    border-color: #333;
+}
+
+body.dark-mode .news-item h2 a {
+    color: #9CDCFE;
+}
+
+body.dark-mode .news-item p {
+    color: #ccc;
+}
+
+body.dark-mode button {
+    background-color: #333;
+}
+
+body.dark-mode button:hover {
+    background-color: #555;
+}
+
+body.dark-mode .feed-label {
+    background-color: #333;
+    color: #ccc;
+}
